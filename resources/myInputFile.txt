@@ -1,0 +1,9 @@
+A single newline has no effect on the layout.
+
+But an empty line starts a new paragraph, or ends a list or indented part. (<p> disables this paragraphing until </p> or the end of the section)
+
+(in Cologne Blue two newlines and a div tag give just one newline; in the order newline, div tag, newline, the result is two newlines)
+
+You can make the wikitext more readable by putting in newlines. You might find this causes future problems -- see w:Wikipedia:Don't use line breaks for details.
+
+When used in a list, a newline does affect the layout (See Help:List).
